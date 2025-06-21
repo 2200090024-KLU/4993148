@@ -1,4 +1,5 @@
-UPPALA YAMINI LAKSHMI APARNA SAI
-SUPERSET ID - 4993148
-Email :- 2200090024csit@gmail.com
-Weekly Submissions of Digital Nurture Program 4.0 JAVA FSE --- COGNIZANT
+# 💻 Digital Nurture 4.0 – Java Full Stack Engineer (FSE) – Cognizant
+
+**UPPALA YAMINI LAKSHMI APARNA SAI**  
+**SUPERSET ID - 4993148**  
+**Email - 2200090024csit@gmail.com**

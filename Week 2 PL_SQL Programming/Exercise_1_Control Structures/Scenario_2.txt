@@ -1,0 +1,16 @@
+DECLARE
+    CURSOR vip_cursor IS
+        SELECT customer_id
+        FROM customers
+        WHERE balance > 10000;
+BEGIN
+    FOR rec IN vip_cursor LOOP
+        UPDATE customers
+        SET IsVIP = 'TRUE'
+        WHERE customer_id = rec.customer_id;
+    END LOOP;
+
+    COMMIT;
+    DBMS_OUTPUT.PUT_LINE('VIP status set for customers with balance over $10,000.');
+END;
+/

@@ -1,0 +1,18 @@
+DECLARE
+    CURSOR cust_cursor IS
+        SELECT customer_id, interest_rate
+        FROM loans
+        WHERE customer_id IN (
+            SELECT customer_id FROM customers WHERE age > 60
+        );
+BEGIN
+    FOR rec IN cust_cursor LOOP
+        UPDATE loans
+        SET interest_rate = interest_rate - (interest_rate * 0.01)
+        WHERE customer_id = rec.customer_id;
+    END LOOP;
+    
+    COMMIT;
+    DBMS_OUTPUT.PUT_LINE('1% discount applied to customers above 60.');
+END;
+/

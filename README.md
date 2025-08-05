@@ -1,8 +1,6 @@
 # Cognizant Digital Nurture 4.0 – Java Learning Program Solutions
 Superset ID - 499148
 
-Welcome to my repository for Cognizant's Digital Nurture 4.0 program. This repo contains hands-on solutions and projects from the **Java Full Stack Engineer (FSE)** learning path.
-
 ---
 
 ## 📌 Quick Navigation
@@ -65,4 +63,5 @@ Welcome to my repository for Cognizant's Digital Nurture 4.0 program. This repo 
 - 3 ReactJS-HOL
 - 4 ReactJS-HOL
 - 5 ReactJS-HOL
+
 

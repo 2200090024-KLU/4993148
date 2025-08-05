@@ -1,0 +1,14 @@
+1. JPA : Java Persistence Api
+    JPA is a specification (an interface) defined by Java EE for object-relational mapping (ORM).
+    It defines how Java objects are mapped to relational database tables.
+    JPA does not provide implementation you need a provider like Hibernate
+
+2. Hibernate
+    As a JPA provider (standard usage).
+    As a native API.
+    Better support for complex joins and native SQL
+
+3. Spring JPA
+    A Spring abstraction over JPA, that simplifies repository layer (DAO).
+    It allows you to create repositories with almost no boilerplate code.
+    Reduces boilerplate significantly.

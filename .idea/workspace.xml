@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c82ccdaa-86b2-4901-b362-42cb6c926c58" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4993148.iml" beforeDir="false" afterPath="$PROJECT_DIR$/4993148.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 PL_SQL Programming/Exercise_1_Control Structures/Scenario_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 PL_SQL Programming/Exercise_1_Control Structures/Scenario_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 PL_SQL Programming/Exercise_1_Control Structures/Scenario_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 PL_SQL Programming/Exercise_1_Control Structures/read.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 PL_SQL Programming/Exercise_2 Stored Procedures/Scenario_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 PL_SQL Programming/Exercise_2 Stored Procedures/Scenario_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 PL_SQL Programming/Exercise_2 Stored Procedures/Scenario_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 PL_SQL Programming/Exercise_2 Stored Procedures/read.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 SLF4J_logging framework/Exercise_1_logging error messages/LoggingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 SLF4J_logging framework/Exercise_1_logging error messages/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 SLF4J_logging framework/Exercise_1_logging error messages/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 SLF4J_logging framework/Exercise_1_logging error messages/read.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_1_Mocking and Stubbing/ExternalApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_1_Mocking and Stubbing/MyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_1_Mocking and Stubbing/MyServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_1_Mocking and Stubbing/read.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_1_SettingUp Junit/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_1_SettingUp Junit/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_1_SettingUp Junit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_1_SettingUp Junit/read.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_2_Verifying Interactions/ExternalApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_2_Verifying Interactions/MyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_2_Verifying Interactions/MyServiceVerifyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_2_Verifying Interactions/read.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_3_Assertions in JUnit/AssertionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_3_Assertions in JUnit/read.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_4_AAA Patterns/CalculatorTestWithAAA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 TDD using JUnit5 and Mockito/Exercise_4_AAA Patterns/read.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="com.example in 4993148" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2yp0uibrghb4psBA7S6CEJSKlyI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ECommercePlatform.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CalculatorTest.executor": "Coverage",
+    "JUnit.CalculatorTest.testSubtraction.executor": "Run",
+    "JUnit.com.example in 4993148.executor": "Debug",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/4993148_Digital-Nurture-4.0-JavaFSE_Cognizant/Cognizant/Week 2 TDD using JUnit5 and Mockito/Exercise_1_Mocking and Stubbing/com/example",
+    "last_opened_file_path": "C:/Users/123/Downloads/learning-program-solutions-main",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "two.files.diff.last.used.file": "D:/4993148_Digital-Nurture-4.0-JavaFSE_Cognizant/Cognizant/Week 2 TDD using JUnit5 and Mockito/Exercise_1_SettingUp Junit/com/example/Calculator.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Week1.FactoryMethodPatternExample" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest.testSubtraction">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4993148" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testSubtraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4993148" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.CalculatorTest" />
+      <option name="METHOD_NAME" value="testSubtraction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example in 4993148" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4993148" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.example in 4993148" />
+        <item itemvalue="JUnit.CalculatorTest.testSubtraction" />
+        <item itemvalue="JUnit.CalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c82ccdaa-86b2-4901-b362-42cb6c926c58" name="Changes" comment="" />
+      <created>1750516434574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750516434574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Cognizant$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1751872670717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>

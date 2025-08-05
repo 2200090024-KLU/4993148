@@ -1,0 +1,14 @@
+.box {
+    width: 300px;
+    display: inline-block; /* Allows boxes to sit side-by-side */
+    vertical-align: top;   /* Aligns the top of the boxes */
+    margin: 10px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: left;
+}
+
+dt {
+    font-weight: 500;
+}

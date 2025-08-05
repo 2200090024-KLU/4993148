@@ -1,0 +1,20 @@
+Q1. Explain React components.
+Ans1. React components are reusable, independent blocks of code that describe a piece of the user interface. You combine these small pieces, like a button or a form, to build your entire web page.
+
+Q2. Identify the differences between components and JavaScript functions.
+Ans2. A regular JavaScript function can return any data, but a React component must return UI elements (JSX). Components also start with a capital letter and receive "props" as their one argument.
+
+Q3. Identify the types of components.
+Ans3. The two main types are functional components and class components. Functional components are modern JavaScript functions, while class components are older and use ES6 classes.
+
+Q4. Explain class component.
+Ans4. A class component is an ES6 class that extends React.Component and contains a render() method to return UI. It manages its own data using this.state and has access to special lifecycle methods.
+
+Q5. Explain function component.
+Ans5. A function component is a simple JavaScript function that accepts "props" and returns UI elements. They use React Hooks to manage state, and are the modern, standard way to write components.
+
+Q6. Define component constructor.
+Ans6. The constructor is a special method in a class component that runs when the component is created. It is primarily used to initialize the component's state and to bind event handlers.
+
+Q7. Define render() function.
+Ans7. The render() function is a required method inside a class component that returns the UI (as JSX). React calls this function to display the component and update it when its data changes.

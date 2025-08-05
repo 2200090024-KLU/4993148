@@ -1,0 +1,20 @@
+Q1. Define SPA and its benefits.
+Ans1. A Single-Page Application (SPA) is a website that loads one HTML page and updates content dynamically. Its main benefit is providing a faster, smoother user experience without page reloads.
+
+Q2. Define React and identify its working.
+Ans2. React is a JavaScript library for building user interfaces using reusable pieces called components. It works by using a virtual DOM to efficiently update only the necessary parts of a page.
+
+Q3. Identify the differences between SPA and MPA.
+Ans3. SPAs load a single page and update content dynamically, feeling fast and fluid. MPAs are traditional websites that reload a full new page from a server for every click.
+
+Q4. Explain Pros & Cons of Single-Page Application.
+Ans4. Pros of SPAs are speed and a rich user experience. Cons include a potentially slow initial load and challenges with search engine optimization (SEO).
+
+Q5. Explain about React.
+Ans5. React is a popular JavaScript library for creating interactive user interfaces in a declarative way. It uses a component-based structure to build complex applications from small, isolated pieces of code.
+
+Q6. Define virtual DOM.
+Ans6. The virtual DOM is a lightweight copy of the actual browser DOM kept in memory. React uses it to figure out the minimal changes needed, which makes updates very fast.
+
+Q7. Explain Features of React.
+Ans7. React's main features are its component-based architecture for reusable UI and JSX syntax for writing HTML in JavaScript. It also uses a virtual DOM for high performance and has one-way data flow for predictable code.

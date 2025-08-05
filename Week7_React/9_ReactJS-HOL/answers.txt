@@ -1,0 +1,23 @@
+ES6 Features
+ES6 introduced several major features to JavaScript, including let and const for variable declarations, Arrow Functions for a shorter function syntax, and Classes for easier object-oriented programming. It also added Template Literals, Destructuring, Promises for asynchronous operations, and new data structures like Map and Set.
+
+JavaScript let
+The let keyword allows you to declare variables that are limited in scope to the block (the {} curly braces) in which they are defined. You can update the value of a let variable, but you cannot re-declare it in the same scope.
+
+Differences between var and let
+The main difference is scope: var is function-scoped, meaning it's available throughout the function it's declared in, while let is block-scoped, confined to the nearest set of curly braces. Also, var variables can be re-declared, whereas let variables cannot.
+
+JavaScript const
+const is used to declare a constant variable that is also block-scoped, just like let. Once a value is assigned to a const variable, it cannot be reassigned. This helps prevent accidental changes to important values in your code.
+
+ES6 Class Fundamentals
+ES6 classes are a cleaner way to create objects and manage inheritance, acting as a blueprint for creating objects with specific properties and methods. They are primarily "syntactic sugar" over JavaScript's existing prototype-based inheritance, making the code easier to read and write.
+
+ES6 Class Inheritance
+Class inheritance in ES6 allows one class (a child) to inherit properties and methods from another class (a parent) using the extends keyword. The child class can use the super() method to call the constructor of its parent class, promoting code reuse.
+
+ES6 Arrow Functions
+Arrow functions provide a more concise syntax for writing function expressions. A key feature is that they don't have their own this keyword; instead, they lexically bind this from the enclosing scope, which helps avoid common bugs.
+
+Set() and Map()
+Set is a collection of unique values, meaning any single value can only appear once in the set. Map is a collection of key-value pairs, similar to an object, but it allows any type of value (including objects) to be used as a key.

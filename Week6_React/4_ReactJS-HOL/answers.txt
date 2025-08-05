@@ -1,0 +1,8 @@
+Q1. Explain the need and Benefits of component life cycle.
+Ans1. The component lifecycle provides specific points in a component's existence to run code, from its creation to its destruction. This allows developers to control a component's behavior, like fetching data when it appears or cleaning up before it disappears.
+
+Q2. Identify various life cycle hook methods.
+Ans2. For class components, key methods are componentDidMount, componentDidUpdate, and componentWillUnmount. For functional components, the useEffect hook handles all these lifecycle events for setup, updates, and cleanup.
+
+Q3. List the sequence of steps in rendering a component.
+Ans3. First, React runs the render method to create a virtual representation of the UI. Then, it updates the actual browser DOM to match and finally calls componentDidMount (or the useEffect hook) after the component is on the screen.
